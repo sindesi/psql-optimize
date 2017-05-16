@@ -110,4 +110,3 @@ calculate_kernel_shmmax
 # read_postgresql_conf
 
 
-exit 1
